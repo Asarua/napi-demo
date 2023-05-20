@@ -1,0 +1,15 @@
+{
+  "name": "trvon-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "trvon.darwin-universal.node",
+  "files": [
+    "trvon.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
